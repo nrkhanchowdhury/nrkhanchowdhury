@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nafis Chowdhury</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrkhanchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nrkhanchowdhury" /> </p>
 
-- 💬 Ask me about **Particle Physics Research & Machine Learing**
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+- 💬 Ask me about **Particle Physics Research & Machine Learning**
 
 - 📫 How to reach me **nafisrezwankhanchowhdury1992@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nrkhanchowdhury/nrkhanchowdhury.github.io/blob/main/CV_Chowdhury.pdf](https://github.com/nrkhanchowdhury/nrkhanchowdhury.github.io/blob/main/CV_Chowdhury.pdf)
+- 📄 Know about my experiences [CV_Chowdhury](https://github.com/nrkhanchowdhury/nrkhanchowdhury.github.io/blob/main/CV_Chowdhury.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
