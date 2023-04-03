@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 💬 Ask me about **Particle Physics Research & Machine Learning**
+- 💬 Ask me about: **Particle Physics Research & Machine Learning**
 
-- 📫 How to reach me **nafisrezwankhanchowdhury1992@gmail.com**
+- 📫 How to reach me:  **nafisrezwankhanchowdhury1992@gmail.com**
 
-- 📄 Know about my experiences [nrkhanchowdhury](https://nrkhanchowdhury.github.io./)
+- 📄 Know about my experiences:  [nrkhanchowdhury](https://nrkhanchowdhury.github.io./)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
