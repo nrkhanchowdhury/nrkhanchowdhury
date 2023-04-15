@@ -33,11 +33,6 @@
 <hr>
 <br>
 
-## Watch a snake eat my contributions 🐍
-<p align='center'>
-<img src="https://github.com/nrkhanchowdhury/nrkhanchowdhury/raw/output/github-contribution-grid-snake.svg">
-</p>
-
 
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
