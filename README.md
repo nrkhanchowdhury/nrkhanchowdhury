@@ -22,4 +22,26 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nrkhanchowdhury&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrkhanchowdhury&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+<hr>
+<br>
+
+## Watch a snake eat my contributions 🐍
+<p align='center'>
+<img src="https://github.com/nrkhanchowdhury/nrkhanchowdhury/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+
+<h2 align='center'>Thank You!!!!!</h2>
+<br>
