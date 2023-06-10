@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **Particle Physics Research & Machine Learning**
 
-- 📫 How to reach me:  **nafisrezwankhanchowdhury1992@gmail.com**
+- 📫 How to reach me:  **nrkhanchowdhury@gmail.com**
 
 - 📄 Know about my experiences:  [nrkhanchowdhury](https://nrkhanchowdhury.github.io./)
 
