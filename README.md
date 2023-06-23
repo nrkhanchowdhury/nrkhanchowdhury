@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:  **nrkhanchowdhury@gmail.com**
 
-- 📄 Know about my experiences:  [nrkhanchowdhury](https://nrkhanchowdhury.github.io./)
+- 📄 Know about my experiences [here](https://nrkhanchowdhury.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
